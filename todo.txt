@@ -1,0 +1,33 @@
+Rename to ntc?
+    Put on github
+    Put webwidgets on github
+
+Get music & images working from /gidea
+    Don't use struts?
+    Have it in the root webapp?
+
+Change nickthecoder's wiki webapp to something else so that pinkwino can be used for pinkwino docs.
+    "content"?
+
+Create a list of example urls that have changed, to test the apache redirects after the switch-over.
+
+Remove "search" and "family album" from the navigation (as they doesn't work!)
+    Remove butchers cron job(s) too.
+
+Pinkwino :
+    Create a new look template
+    Use gradle to build it
+    Put on github
+
+Games
+    Move games into the software page?
+        http://nickthecoder.co.uk/gidea/games/
+    Remove IE waffle from super7
+    Create a super7 board and pieces on 3D printer
+        Turn a tile over when its been completed, and place a single piece in the middle.
+        Alternate rules :
+        http://www.talkandroid.com/reviews/apps/featured-play-store-newbie-bring-back-the-fun-of-tic-tac-toe-with-super-ttt-hands-on-video/
+
+ThumbnailMaker - Save the jpegs
+Add pinkwino into the project.
+Fix warnings such old fashioned non-generics code.
